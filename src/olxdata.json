@@ -1,0 +1,3722 @@
+[
+  {
+    "date": "2020-04-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2882,
+    "toRent": 8110
+  },
+  {
+    "date": "2020-05-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2870,
+    "toRent": 8115
+  },
+  {
+    "date": "2020-05-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2839,
+    "toRent": 8129
+  },
+  {
+    "date": "2020-05-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2827,
+    "toRent": 8114
+  },
+  {
+    "date": "2020-05-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2890,
+    "toRent": 8241
+  },
+  {
+    "date": "2020-05-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2939,
+    "toRent": 8459
+  },
+  {
+    "date": "2020-05-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2962,
+    "toRent": 8609
+  },
+  {
+    "date": "2020-05-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2941,
+    "toRent": 8724
+  },
+  {
+    "date": "2020-05-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2952,
+    "toRent": 8833
+  },
+  {
+    "date": "2020-05-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3025,
+    "toRent": 8903
+  },
+  {
+    "date": "2020-05-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3015,
+    "toRent": 8937
+  },
+  {
+    "date": "2020-05-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3006,
+    "toRent": 9054
+  },
+  {
+    "date": "2020-05-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3119,
+    "toRent": 9318
+  },
+  {
+    "date": "2020-05-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3173,
+    "toRent": 9548
+  },
+  {
+    "date": "2020-05-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3241,
+    "toRent": 9680
+  },
+  {
+    "date": "2020-05-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3252,
+    "toRent": 9733
+  },
+  {
+    "date": "2020-05-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3238,
+    "toRent": 9713
+  },
+  {
+    "date": "2020-05-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3218,
+    "toRent": 9679
+  },
+  {
+    "date": "2020-05-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3185,
+    "toRent": 9730
+  },
+  {
+    "date": "2020-05-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3261,
+    "toRent": 9851
+  },
+  {
+    "date": "2020-05-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3313,
+    "toRent": 9892
+  },
+  {
+    "date": "2020-05-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3317,
+    "toRent": 9902
+  },
+  {
+    "date": "2020-05-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3360,
+    "toRent": 10151
+  },
+  {
+    "date": "2020-05-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3367,
+    "toRent": 10243
+  },
+  {
+    "date": "2020-05-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3368,
+    "toRent": 10304
+  },
+  {
+    "date": "2020-06-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3427,
+    "toRent": 10585
+  },
+  {
+    "date": "2020-06-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3408,
+    "toRent": 10601
+  },
+  {
+    "date": "2020-06-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3406,
+    "toRent": 10612
+  },
+  {
+    "date": "2020-06-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3428,
+    "toRent": 10599
+  },
+  {
+    "date": "2020-06-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3435,
+    "toRent": 10554
+  },
+  {
+    "date": "2020-06-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3419,
+    "toRent": 10597
+  },
+  {
+    "date": "2020-06-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3508,
+    "toRent": 10783
+  },
+  {
+    "date": "2020-06-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3551,
+    "toRent": 10811
+  },
+  {
+    "date": "2020-06-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3513,
+    "toRent": 10719
+  },
+  {
+    "date": "2020-06-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3474,
+    "toRent": 10627
+  },
+  {
+    "date": "2020-06-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3408,
+    "toRent": 10573
+  },
+  {
+    "date": "2020-06-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3358,
+    "toRent": 10459
+  },
+  {
+    "date": "2020-06-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3358,
+    "toRent": 10498
+  },
+  {
+    "date": "2020-06-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3415,
+    "toRent": 10733
+  },
+  {
+    "date": "2020-06-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3461,
+    "toRent": 10844
+  },
+  {
+    "date": "2020-06-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3398,
+    "toRent": 10784
+  },
+  {
+    "date": "2020-06-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3381,
+    "toRent": 10767
+  },
+  {
+    "date": "2020-06-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3330,
+    "toRent": 10674
+  },
+  {
+    "date": "2020-06-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3306,
+    "toRent": 10532
+  },
+  {
+    "date": "2020-06-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3294,
+    "toRent": 10549
+  },
+  {
+    "date": "2020-06-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3334,
+    "toRent": 10681
+  },
+  {
+    "date": "2020-07-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3206,
+    "toRent": 10215
+  },
+  {
+    "date": "2020-07-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3259,
+    "toRent": 10288
+  },
+  {
+    "date": "2020-07-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3242,
+    "toRent": 10324
+  },
+  {
+    "date": "2020-07-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3252,
+    "toRent": 10306
+  },
+  {
+    "date": "2020-07-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3251,
+    "toRent": 10328
+  },
+  {
+    "date": "2020-07-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3261,
+    "toRent": 10311
+  },
+  {
+    "date": "2020-07-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3244,
+    "toRent": 10362
+  },
+  {
+    "date": "2020-07-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3314,
+    "toRent": 10522
+  },
+  {
+    "date": "2020-07-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3338,
+    "toRent": 10545
+  },
+  {
+    "date": "2020-07-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3332,
+    "toRent": 10427
+  },
+  {
+    "date": "2020-07-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3310,
+    "toRent": 10312
+  },
+  {
+    "date": "2020-07-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3282,
+    "toRent": 10252
+  },
+  {
+    "date": "2020-07-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3241,
+    "toRent": 10089
+  },
+  {
+    "date": "2020-07-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3308,
+    "toRent": 10272
+  },
+  {
+    "date": "2020-07-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3296,
+    "toRent": 10189
+  },
+  {
+    "date": "2020-07-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3282,
+    "toRent": 10091
+  },
+  {
+    "date": "2020-07-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3208,
+    "toRent": 9966
+  },
+  {
+    "date": "2020-07-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3206,
+    "toRent": 9933
+  },
+  {
+    "date": "2020-07-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3221,
+    "toRent": 9894
+  },
+  {
+    "date": "2020-07-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3244,
+    "toRent": 9777
+  },
+  {
+    "date": "2020-08-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3260,
+    "toRent": 9644
+  },
+  {
+    "date": "2020-08-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3215,
+    "toRent": 9474
+  },
+  {
+    "date": "2020-08-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3238,
+    "toRent": 9583
+  },
+  {
+    "date": "2020-08-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3293,
+    "toRent": 9820
+  },
+  {
+    "date": "2020-08-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3255,
+    "toRent": 9832
+  },
+  {
+    "date": "2020-08-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3202,
+    "toRent": 9769
+  },
+  {
+    "date": "2020-08-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3212,
+    "toRent": 9652
+  },
+  {
+    "date": "2020-08-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3155,
+    "toRent": 9496
+  },
+  {
+    "date": "2020-08-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3089,
+    "toRent": 9418
+  },
+  {
+    "date": "2020-08-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3179,
+    "toRent": 9566
+  },
+  {
+    "date": "2020-08-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3229,
+    "toRent": 9820
+  },
+  {
+    "date": "2020-08-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3127,
+    "toRent": 9591
+  },
+  {
+    "date": "2020-08-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3130,
+    "toRent": 9662
+  },
+  {
+    "date": "2020-08-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3167,
+    "toRent": 9763
+  },
+  {
+    "date": "2020-08-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3287,
+    "toRent": 9774
+  },
+  {
+    "date": "2020-08-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3243,
+    "toRent": 9683
+  },
+  {
+    "date": "2020-08-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3226,
+    "toRent": 9803
+  },
+  {
+    "date": "2020-08-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3398,
+    "toRent": 10334
+  },
+  {
+    "date": "2020-08-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3389,
+    "toRent": 10387
+  },
+  {
+    "date": "2020-08-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3366,
+    "toRent": 10410
+  },
+  {
+    "date": "2020-08-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3367,
+    "toRent": 10419
+  },
+  {
+    "date": "2020-08-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3340,
+    "toRent": 10315
+  },
+  {
+    "date": "2020-08-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3294,
+    "toRent": 10384
+  },
+  {
+    "date": "2020-09-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3412,
+    "toRent": 10943
+  },
+  {
+    "date": "2020-09-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3420,
+    "toRent": 11010
+  },
+  {
+    "date": "2020-09-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3441,
+    "toRent": 11196
+  },
+  {
+    "date": "2020-09-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3487,
+    "toRent": 11401
+  },
+  {
+    "date": "2020-09-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3477,
+    "toRent": 11392
+  },
+  {
+    "date": "2020-09-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3485,
+    "toRent": 11393
+  },
+  {
+    "date": "2020-09-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3489,
+    "toRent": 11407
+  },
+  {
+    "date": "2020-09-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3467,
+    "toRent": 11382
+  },
+  {
+    "date": "2020-09-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3415,
+    "toRent": 11246
+  },
+  {
+    "date": "2020-09-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3409,
+    "toRent": 11183
+  },
+  {
+    "date": "2020-09-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3474,
+    "toRent": 11393
+  },
+  {
+    "date": "2020-09-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3579,
+    "toRent": 11452
+  },
+  {
+    "date": "2020-09-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3553,
+    "toRent": 11448
+  },
+  {
+    "date": "2020-09-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3576,
+    "toRent": 11467
+  },
+  {
+    "date": "2020-09-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3532,
+    "toRent": 11394
+  },
+  {
+    "date": "2020-09-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3474,
+    "toRent": 11209
+  },
+  {
+    "date": "2020-09-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3404,
+    "toRent": 11239
+  },
+  {
+    "date": "2020-09-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3481,
+    "toRent": 11418
+  },
+  {
+    "date": "2020-09-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3546,
+    "toRent": 11465
+  },
+  {
+    "date": "2020-09-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3512,
+    "toRent": 11478
+  },
+  {
+    "date": "2020-09-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3539,
+    "toRent": 11468
+  },
+  {
+    "date": "2020-09-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3572,
+    "toRent": 11426
+  },
+  {
+    "date": "2020-09-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3536,
+    "toRent": 11352
+  },
+  {
+    "date": "2020-09-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3525,
+    "toRent": 11380
+  },
+  {
+    "date": "2020-09-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3544,
+    "toRent": 11508
+  },
+  {
+    "date": "2020-09-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3593,
+    "toRent": 11479
+  },
+  {
+    "date": "2020-10-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3547,
+    "toRent": 11308
+  },
+  {
+    "date": "2020-10-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3562,
+    "toRent": 11118
+  },
+  {
+    "date": "2020-10-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3573,
+    "toRent": 10996
+  },
+  {
+    "date": "2020-10-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3551,
+    "toRent": 10867
+  },
+  {
+    "date": "2020-10-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3554,
+    "toRent": 10873
+  },
+  {
+    "date": "2020-10-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3659,
+    "toRent": 10993
+  },
+  {
+    "date": "2020-10-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3627,
+    "toRent": 10879
+  },
+  {
+    "date": "2020-10-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3598,
+    "toRent": 10806
+  },
+  {
+    "date": "2020-10-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3615,
+    "toRent": 10730
+  },
+  {
+    "date": "2020-10-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3563,
+    "toRent": 10560
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3533,
+    "toRent": 10483
+  },
+  {
+    "date": "2020-10-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3621,
+    "toRent": 10642
+  },
+  {
+    "date": "2020-10-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3700,
+    "toRent": 10699
+  },
+  {
+    "date": "2020-10-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3690,
+    "toRent": 10638
+  },
+  {
+    "date": "2020-10-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3646,
+    "toRent": 10561
+  },
+  {
+    "date": "2020-10-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3646,
+    "toRent": 10449
+  },
+  {
+    "date": "2020-10-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3593,
+    "toRent": 10302
+  },
+  {
+    "date": "2020-10-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3560,
+    "toRent": 10303
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3563,
+    "toRent": 10320
+  },
+  {
+    "date": "2020-10-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3640,
+    "toRent": 10459
+  },
+  {
+    "date": "2020-10-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3675,
+    "toRent": 10357
+  },
+  {
+    "date": "2020-10-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3668,
+    "toRent": 10171
+  },
+  {
+    "date": "2020-10-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3667,
+    "toRent": 10145
+  },
+  {
+    "date": "2020-10-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3709,
+    "toRent": 10072
+  },
+  {
+    "date": "2020-10-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3631,
+    "toRent": 9920
+  },
+  {
+    "date": "2020-10-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3578,
+    "toRent": 9885
+  },
+  {
+    "date": "2020-10-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3615,
+    "toRent": 9925
+  },
+  {
+    "date": "2020-10-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3613,
+    "toRent": 9903
+  },
+  {
+    "date": "2020-10-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3592,
+    "toRent": 9797
+  },
+  {
+    "date": "2020-10-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3563,
+    "toRent": 9714
+  },
+  {
+    "date": "2020-10-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3567,
+    "toRent": 9564
+  },
+  {
+    "date": "2020-11-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3514,
+    "toRent": 9440
+  },
+  {
+    "date": "2020-11-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3464,
+    "toRent": 9413
+  },
+  {
+    "date": "2020-11-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3543,
+    "toRent": 9549
+  },
+  {
+    "date": "2020-11-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3581,
+    "toRent": 9601
+  },
+  {
+    "date": "2020-11-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3592,
+    "toRent": 9607
+  },
+  {
+    "date": "2020-11-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3597,
+    "toRent": 9635
+  },
+  {
+    "date": "2020-11-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3619,
+    "toRent": 9587
+  },
+  {
+    "date": "2020-11-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3619,
+    "toRent": 9492
+  },
+  {
+    "date": "2020-11-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3570,
+    "toRent": 9519
+  },
+  {
+    "date": "2020-11-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3640,
+    "toRent": 9646
+  },
+  {
+    "date": "2020-11-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3679,
+    "toRent": 9657
+  },
+  {
+    "date": "2020-11-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3577,
+    "toRent": 9503
+  },
+  {
+    "date": "2020-11-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3574,
+    "toRent": 9542
+  },
+  {
+    "date": "2020-11-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3555,
+    "toRent": 9520
+  },
+  {
+    "date": "2020-11-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3522,
+    "toRent": 9456
+  },
+  {
+    "date": "2020-11-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3498,
+    "toRent": 9493
+  },
+  {
+    "date": "2020-11-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3576,
+    "toRent": 9620
+  },
+  {
+    "date": "2020-11-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3600,
+    "toRent": 9654
+  },
+  {
+    "date": "2020-11-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3576,
+    "toRent": 9653
+  },
+  {
+    "date": "2020-11-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3553,
+    "toRent": 9616
+  },
+  {
+    "date": "2020-11-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3554,
+    "toRent": 9565
+  },
+  {
+    "date": "2020-11-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3532,
+    "toRent": 9527
+  },
+  {
+    "date": "2020-11-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3473,
+    "toRent": 9585
+  },
+  {
+    "date": "2020-11-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3539,
+    "toRent": 9715
+  },
+  {
+    "date": "2020-11-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3573,
+    "toRent": 9746
+  },
+  {
+    "date": "2020-11-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3539,
+    "toRent": 9736
+  },
+  {
+    "date": "2020-11-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3522,
+    "toRent": 9681
+  },
+  {
+    "date": "2020-11-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3516,
+    "toRent": 9654
+  },
+  {
+    "date": "2020-11-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3476,
+    "toRent": 9595
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3451,
+    "toRent": 9631
+  },
+  {
+    "date": "2020-12-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3449,
+    "toRent": 9729
+  },
+  {
+    "date": "2020-12-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3490,
+    "toRent": 9774
+  },
+  {
+    "date": "2020-12-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3507,
+    "toRent": 9724
+  },
+  {
+    "date": "2020-12-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3466,
+    "toRent": 9691
+  },
+  {
+    "date": "2020-12-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3442,
+    "toRent": 9665
+  },
+  {
+    "date": "2020-12-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3395,
+    "toRent": 9533
+  },
+  {
+    "date": "2020-12-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3320,
+    "toRent": 9519
+  },
+  {
+    "date": "2020-12-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3422,
+    "toRent": 9740
+  },
+  {
+    "date": "2020-12-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3440,
+    "toRent": 9815
+  },
+  {
+    "date": "2020-12-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3411,
+    "toRent": 9791
+  },
+  {
+    "date": "2020-12-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3404,
+    "toRent": 9737
+  },
+  {
+    "date": "2020-12-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3458,
+    "toRent": 9660
+  },
+  {
+    "date": "2020-12-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3382,
+    "toRent": 9513
+  },
+  {
+    "date": "2020-12-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3329,
+    "toRent": 9488
+  },
+  {
+    "date": "2020-12-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3366,
+    "toRent": 9552
+  },
+  {
+    "date": "2020-12-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3389,
+    "toRent": 9521
+  },
+  {
+    "date": "2020-12-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3300,
+    "toRent": 9451
+  },
+  {
+    "date": "2020-12-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3285,
+    "toRent": 9321
+  },
+  {
+    "date": "2020-12-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3226,
+    "toRent": 9168
+  },
+  {
+    "date": "2020-12-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3178,
+    "toRent": 9012
+  },
+  {
+    "date": "2020-12-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3114,
+    "toRent": 8938
+  },
+  {
+    "date": "2020-12-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3116,
+    "toRent": 8965
+  },
+  {
+    "date": "2020-12-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3100,
+    "toRent": 8808
+  },
+  {
+    "date": "2020-12-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3044,
+    "toRent": 8607
+  },
+  {
+    "date": "2020-12-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2923,
+    "toRent": 8374
+  },
+  {
+    "date": "2020-12-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2882,
+    "toRent": 8187
+  },
+  {
+    "date": "2020-12-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2840,
+    "toRent": 8058
+  },
+  {
+    "date": "2020-12-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2813,
+    "toRent": 8082
+  },
+  {
+    "date": "2020-12-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2909,
+    "toRent": 8284
+  },
+  {
+    "date": "2020-12-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2943,
+    "toRent": 8321
+  },
+  {
+    "date": "2020-12-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2900,
+    "toRent": 8212
+  },
+  {
+    "date": "2021-01-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2816,
+    "toRent": 7987
+  },
+  {
+    "date": "2021-01-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2721,
+    "toRent": 7846
+  },
+  {
+    "date": "2021-01-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2719,
+    "toRent": 7901
+  },
+  {
+    "date": "2021-01-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2679,
+    "toRent": 8016
+  },
+  {
+    "date": "2021-01-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2820,
+    "toRent": 8362
+  },
+  {
+    "date": "2021-01-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2879,
+    "toRent": 8453
+  },
+  {
+    "date": "2021-01-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2805,
+    "toRent": 8460
+  },
+  {
+    "date": "2021-01-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2859,
+    "toRent": 8520
+  },
+  {
+    "date": "2021-01-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2887,
+    "toRent": 8580
+  },
+  {
+    "date": "2021-01-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2883,
+    "toRent": 8532
+  },
+  {
+    "date": "2021-01-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2889,
+    "toRent": 8593
+  },
+  {
+    "date": "2021-01-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3014,
+    "toRent": 8806
+  },
+  {
+    "date": "2021-01-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3098,
+    "toRent": 8977
+  },
+  {
+    "date": "2021-01-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3095,
+    "toRent": 9044
+  },
+  {
+    "date": "2021-01-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3042,
+    "toRent": 9102
+  },
+  {
+    "date": "2021-01-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3091,
+    "toRent": 9157
+  },
+  {
+    "date": "2021-01-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3127,
+    "toRent": 9201
+  },
+  {
+    "date": "2021-01-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3166,
+    "toRent": 9285
+  },
+  {
+    "date": "2021-01-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3209,
+    "toRent": 9467
+  },
+  {
+    "date": "2021-01-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3252,
+    "toRent": 9601
+  },
+  {
+    "date": "2021-01-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3284,
+    "toRent": 9655
+  },
+  {
+    "date": "2021-01-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3277,
+    "toRent": 9740
+  },
+  {
+    "date": "2021-01-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3340,
+    "toRent": 9825
+  },
+  {
+    "date": "2021-01-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3395,
+    "toRent": 9938
+  },
+  {
+    "date": "2021-01-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3444,
+    "toRent": 10139
+  },
+  {
+    "date": "2021-01-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3509,
+    "toRent": 10332
+  },
+  {
+    "date": "2021-01-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3571,
+    "toRent": 10411
+  },
+  {
+    "date": "2021-01-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3551,
+    "toRent": 10381
+  },
+  {
+    "date": "2021-01-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3533,
+    "toRent": 10340
+  },
+  {
+    "date": "2021-01-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3569,
+    "toRent": 10378
+  },
+  {
+    "date": "2021-01-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3577,
+    "toRent": 10381
+  },
+  {
+    "date": "2021-02-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3615,
+    "toRent": 10490
+  },
+  {
+    "date": "2021-02-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3673,
+    "toRent": 10564
+  },
+  {
+    "date": "2021-02-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3690,
+    "toRent": 10561
+  },
+  {
+    "date": "2021-02-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3637,
+    "toRent": 10457
+  },
+  {
+    "date": "2021-02-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3592,
+    "toRent": 10500
+  },
+  {
+    "date": "2021-02-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3633,
+    "toRent": 10517
+  },
+  {
+    "date": "2021-02-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3548,
+    "toRent": 10346
+  },
+  {
+    "date": "2021-02-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3522,
+    "toRent": 10351
+  },
+  {
+    "date": "2021-02-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3538,
+    "toRent": 10445
+  },
+  {
+    "date": "2021-02-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3555,
+    "toRent": 10448
+  },
+  {
+    "date": "2021-02-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3500,
+    "toRent": 10360
+  },
+  {
+    "date": "2021-02-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3442,
+    "toRent": 10236
+  },
+  {
+    "date": "2021-02-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3444,
+    "toRent": 10146
+  },
+  {
+    "date": "2021-02-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3409,
+    "toRent": 10095
+  },
+  {
+    "date": "2021-02-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3357,
+    "toRent": 10060
+  },
+  {
+    "date": "2021-02-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3397,
+    "toRent": 10212
+  },
+  {
+    "date": "2021-02-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3396,
+    "toRent": 10250
+  },
+  {
+    "date": "2021-02-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3420,
+    "toRent": 10253
+  },
+  {
+    "date": "2021-02-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3422,
+    "toRent": 10252
+  },
+  {
+    "date": "2021-02-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3382,
+    "toRent": 10274
+  },
+  {
+    "date": "2021-02-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3364,
+    "toRent": 10207
+  },
+  {
+    "date": "2021-02-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3338,
+    "toRent": 10291
+  },
+  {
+    "date": "2021-02-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3375,
+    "toRent": 10416
+  },
+  {
+    "date": "2021-02-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3382,
+    "toRent": 10451
+  },
+  {
+    "date": "2021-02-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3341,
+    "toRent": 10410
+  },
+  {
+    "date": "2021-02-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3362,
+    "toRent": 10367
+  },
+  {
+    "date": "2021-02-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3367,
+    "toRent": 10301
+  },
+  {
+    "date": "2021-02-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3329,
+    "toRent": 10308
+  },
+  {
+    "date": "2021-03-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3316,
+    "toRent": 10262
+  },
+  {
+    "date": "2021-03-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3380,
+    "toRent": 10372
+  },
+  {
+    "date": "2021-03-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3412,
+    "toRent": 10434
+  },
+  {
+    "date": "2021-03-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3420,
+    "toRent": 10365
+  },
+  {
+    "date": "2021-03-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3424,
+    "toRent": 10320
+  },
+  {
+    "date": "2021-03-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3388,
+    "toRent": 10223
+  },
+  {
+    "date": "2021-03-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3356,
+    "toRent": 10135
+  },
+  {
+    "date": "2021-03-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3355,
+    "toRent": 10193
+  },
+  {
+    "date": "2021-03-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3392,
+    "toRent": 10381
+  },
+  {
+    "date": "2021-03-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3410,
+    "toRent": 10449
+  },
+  {
+    "date": "2021-03-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3416,
+    "toRent": 10434
+  },
+  {
+    "date": "2021-03-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3444,
+    "toRent": 10502
+  },
+  {
+    "date": "2021-03-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3471,
+    "toRent": 10540
+  },
+  {
+    "date": "2021-03-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3458,
+    "toRent": 10475
+  },
+  {
+    "date": "2021-03-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3442,
+    "toRent": 10482
+  },
+  {
+    "date": "2021-03-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3532,
+    "toRent": 10655
+  },
+  {
+    "date": "2021-03-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3602,
+    "toRent": 10684
+  },
+  {
+    "date": "2021-03-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3582,
+    "toRent": 10618
+  },
+  {
+    "date": "2021-03-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3588,
+    "toRent": 10607
+  },
+  {
+    "date": "2021-03-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3573,
+    "toRent": 10506
+  },
+  {
+    "date": "2021-03-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3531,
+    "toRent": 10434
+  },
+  {
+    "date": "2021-03-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3529,
+    "toRent": 10485
+  },
+  {
+    "date": "2021-03-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3577,
+    "toRent": 10593
+  },
+  {
+    "date": "2021-03-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3594,
+    "toRent": 10527
+  },
+  {
+    "date": "2021-03-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3607,
+    "toRent": 10522
+  },
+  {
+    "date": "2021-03-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3600,
+    "toRent": 10449
+  },
+  {
+    "date": "2021-03-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3591,
+    "toRent": 10367
+  },
+  {
+    "date": "2021-03-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3551,
+    "toRent": 10252
+  },
+  {
+    "date": "2021-03-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3526,
+    "toRent": 10193
+  },
+  {
+    "date": "2021-03-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3443,
+    "toRent": 10233
+  },
+  {
+    "date": "2021-03-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3405,
+    "toRent": 10136
+  },
+  {
+    "date": "2021-04-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3366,
+    "toRent": 9986
+  },
+  {
+    "date": "2021-04-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3317,
+    "toRent": 9793
+  },
+  {
+    "date": "2021-04-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3316,
+    "toRent": 9626
+  },
+  {
+    "date": "2021-04-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3344,
+    "toRent": 9495
+  },
+  {
+    "date": "2021-04-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3298,
+    "toRent": 9347
+  },
+  {
+    "date": "2021-04-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3306,
+    "toRent": 9396
+  },
+  {
+    "date": "2021-04-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3413,
+    "toRent": 9581
+  },
+  {
+    "date": "2021-04-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3420,
+    "toRent": 9621
+  },
+  {
+    "date": "2021-04-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3396,
+    "toRent": 9651
+  },
+  {
+    "date": "2021-04-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3380,
+    "toRent": 9603
+  },
+  {
+    "date": "2021-04-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3305,
+    "toRent": 9472
+  },
+  {
+    "date": "2021-04-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3257,
+    "toRent": 9438
+  },
+  {
+    "date": "2021-04-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3328,
+    "toRent": 9575
+  },
+  {
+    "date": "2021-04-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3369,
+    "toRent": 9702
+  },
+  {
+    "date": "2021-04-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3327,
+    "toRent": 9711
+  },
+  {
+    "date": "2021-04-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3308,
+    "toRent": 9696
+  },
+  {
+    "date": "2021-04-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3319,
+    "toRent": 9687
+  },
+  {
+    "date": "2021-04-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3294,
+    "toRent": 9607
+  },
+  {
+    "date": "2021-04-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3259,
+    "toRent": 9628
+  },
+  {
+    "date": "2021-04-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3323,
+    "toRent": 9696
+  },
+  {
+    "date": "2021-04-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3363,
+    "toRent": 9789
+  },
+  {
+    "date": "2021-04-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3355,
+    "toRent": 9786
+  },
+  {
+    "date": "2021-04-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3350,
+    "toRent": 9722
+  },
+  {
+    "date": "2021-04-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3383,
+    "toRent": 9691
+  },
+  {
+    "date": "2021-04-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3366,
+    "toRent": 9653
+  },
+  {
+    "date": "2021-04-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3351,
+    "toRent": 9677
+  },
+  {
+    "date": "2021-04-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3391,
+    "toRent": 9921
+  },
+  {
+    "date": "2021-04-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3415,
+    "toRent": 9944
+  },
+  {
+    "date": "2021-04-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3409,
+    "toRent": 9879
+  },
+  {
+    "date": "2021-04-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3421,
+    "toRent": 9886
+  },
+  {
+    "date": "2021-05-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3455,
+    "toRent": 9819
+  },
+  {
+    "date": "2021-05-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3446,
+    "toRent": 9764
+  },
+  {
+    "date": "2021-05-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3422,
+    "toRent": 9794
+  },
+  {
+    "date": "2021-05-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3407,
+    "toRent": 9991
+  },
+  {
+    "date": "2021-05-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3494,
+    "toRent": 10178
+  },
+  {
+    "date": "2021-05-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3544,
+    "toRent": 10296
+  },
+  {
+    "date": "2021-05-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3456,
+    "toRent": 10160
+  },
+  {
+    "date": "2021-05-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3444,
+    "toRent": 10102
+  },
+  {
+    "date": "2021-05-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3443,
+    "toRent": 9998
+  },
+  {
+    "date": "2021-05-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3402,
+    "toRent": 9972
+  },
+  {
+    "date": "2021-05-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3484,
+    "toRent": 10118
+  },
+  {
+    "date": "2021-05-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3527,
+    "toRent": 10191
+  },
+  {
+    "date": "2021-05-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3512,
+    "toRent": 10064
+  },
+  {
+    "date": "2021-05-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3513,
+    "toRent": 9967
+  },
+  {
+    "date": "2021-05-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3492,
+    "toRent": 9875
+  },
+  {
+    "date": "2021-05-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3458,
+    "toRent": 9737
+  },
+  {
+    "date": "2021-05-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3423,
+    "toRent": 9746
+  },
+  {
+    "date": "2021-05-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3511,
+    "toRent": 9905
+  },
+  {
+    "date": "2021-05-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3562,
+    "toRent": 10002
+  },
+  {
+    "date": "2021-05-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3554,
+    "toRent": 10014
+  },
+  {
+    "date": "2021-05-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3505,
+    "toRent": 9942
+  },
+  {
+    "date": "2021-05-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3518,
+    "toRent": 9817
+  },
+  {
+    "date": "2021-05-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3513,
+    "toRent": 9764
+  },
+  {
+    "date": "2021-05-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3433,
+    "toRent": 9722
+  },
+  {
+    "date": "2021-05-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3450,
+    "toRent": 9850
+  },
+  {
+    "date": "2021-05-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3482,
+    "toRent": 9846
+  },
+  {
+    "date": "2021-05-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3514,
+    "toRent": 9727
+  },
+  {
+    "date": "2021-05-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3504,
+    "toRent": 9642
+  },
+  {
+    "date": "2021-05-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3533,
+    "toRent": 9682
+  },
+  {
+    "date": "2021-05-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3506,
+    "toRent": 9576
+  },
+  {
+    "date": "2021-05-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3447,
+    "toRent": 9588
+  },
+  {
+    "date": "2021-06-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3494,
+    "toRent": 9757
+  },
+  {
+    "date": "2021-06-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3508,
+    "toRent": 9786
+  },
+  {
+    "date": "2021-06-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3555,
+    "toRent": 9736
+  },
+  {
+    "date": "2021-06-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3485,
+    "toRent": 9603
+  },
+  {
+    "date": "2021-06-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3465,
+    "toRent": 9527
+  },
+  {
+    "date": "2021-06-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3418,
+    "toRent": 9361
+  },
+  {
+    "date": "2021-06-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3360,
+    "toRent": 9301
+  },
+  {
+    "date": "2021-06-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3390,
+    "toRent": 9552
+  },
+  {
+    "date": "2021-06-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3455,
+    "toRent": 9635
+  },
+  {
+    "date": "2021-06-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3420,
+    "toRent": 9611
+  },
+  {
+    "date": "2021-06-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3426,
+    "toRent": 9613
+  },
+  {
+    "date": "2021-06-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3419,
+    "toRent": 9534
+  },
+  {
+    "date": "2021-06-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3365,
+    "toRent": 9440
+  },
+  {
+    "date": "2021-06-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3336,
+    "toRent": 9430
+  },
+  {
+    "date": "2021-06-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3477,
+    "toRent": 9565
+  },
+  {
+    "date": "2021-06-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3513,
+    "toRent": 9628
+  },
+  {
+    "date": "2021-06-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3462,
+    "toRent": 9562
+  },
+  {
+    "date": "2021-06-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3435,
+    "toRent": 9453
+  },
+  {
+    "date": "2021-06-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3420,
+    "toRent": 9415
+  },
+  {
+    "date": "2021-06-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3373,
+    "toRent": 9283
+  },
+  {
+    "date": "2021-06-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3323,
+    "toRent": 9256
+  },
+  {
+    "date": "2021-06-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3387,
+    "toRent": 9307
+  },
+  {
+    "date": "2021-06-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3445,
+    "toRent": 9354
+  },
+  {
+    "date": "2021-06-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3485,
+    "toRent": 9240
+  },
+  {
+    "date": "2021-06-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3476,
+    "toRent": 9182
+  },
+  {
+    "date": "2021-06-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3555,
+    "toRent": 9067
+  },
+  {
+    "date": "2021-06-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3499,
+    "toRent": 8926
+  },
+  {
+    "date": "2021-06-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3439,
+    "toRent": 8848
+  },
+  {
+    "date": "2021-06-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3490,
+    "toRent": 8872
+  },
+  {
+    "date": "2021-06-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3540,
+    "toRent": 8871
+  },
+  {
+    "date": "2021-07-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3533,
+    "toRent": 8749
+  },
+  {
+    "date": "2021-07-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3508,
+    "toRent": 8735
+  },
+  {
+    "date": "2021-07-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3663,
+    "toRent": 8688
+  },
+  {
+    "date": "2021-07-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3669,
+    "toRent": 8638
+  },
+  {
+    "date": "2021-07-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3652,
+    "toRent": 8674
+  },
+  {
+    "date": "2021-07-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3706,
+    "toRent": 8841
+  },
+  {
+    "date": "2021-07-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3732,
+    "toRent": 8799
+  },
+  {
+    "date": "2021-07-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3653,
+    "toRent": 8650
+  },
+  {
+    "date": "2021-07-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3619,
+    "toRent": 8607
+  },
+  {
+    "date": "2021-07-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3598,
+    "toRent": 8471
+  },
+  {
+    "date": "2021-07-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3531,
+    "toRent": 8290
+  },
+  {
+    "date": "2021-07-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3468,
+    "toRent": 8243
+  },
+  {
+    "date": "2021-07-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3541,
+    "toRent": 8411
+  },
+  {
+    "date": "2021-07-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3561,
+    "toRent": 8421
+  },
+  {
+    "date": "2021-07-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3473,
+    "toRent": 8353
+  },
+  {
+    "date": "2021-07-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3598,
+    "toRent": 8240
+  },
+  {
+    "date": "2021-07-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3585,
+    "toRent": 8088
+  },
+  {
+    "date": "2021-07-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3559,
+    "toRent": 7982
+  },
+  {
+    "date": "2021-07-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3536,
+    "toRent": 7928
+  },
+  {
+    "date": "2021-07-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3634,
+    "toRent": 7950
+  },
+  {
+    "date": "2021-07-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3721,
+    "toRent": 8034
+  },
+  {
+    "date": "2021-07-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3694,
+    "toRent": 8013
+  },
+  {
+    "date": "2021-07-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3672,
+    "toRent": 7932
+  },
+  {
+    "date": "2021-07-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3649,
+    "toRent": 7839
+  },
+  {
+    "date": "2021-07-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3638,
+    "toRent": 7720
+  },
+  {
+    "date": "2021-07-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3577,
+    "toRent": 7662
+  },
+  {
+    "date": "2021-07-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3613,
+    "toRent": 7809
+  },
+  {
+    "date": "2021-07-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3625,
+    "toRent": 7850
+  },
+  {
+    "date": "2021-07-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3582,
+    "toRent": 7743
+  },
+  {
+    "date": "2021-07-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3523,
+    "toRent": 7643
+  },
+  {
+    "date": "2021-07-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3528,
+    "toRent": 7551
+  },
+  {
+    "date": "2021-08-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3524,
+    "toRent": 7445
+  },
+  {
+    "date": "2021-08-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3427,
+    "toRent": 7458
+  },
+  {
+    "date": "2021-08-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3489,
+    "toRent": 7529
+  },
+  {
+    "date": "2021-08-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3510,
+    "toRent": 7538
+  },
+  {
+    "date": "2021-08-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3484,
+    "toRent": 7505
+  },
+  {
+    "date": "2021-08-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3456,
+    "toRent": 7484
+  },
+  {
+    "date": "2021-08-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3461,
+    "toRent": 7436
+  },
+  {
+    "date": "2021-08-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3394,
+    "toRent": 7254
+  },
+  {
+    "date": "2021-08-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3405,
+    "toRent": 7313
+  },
+  {
+    "date": "2021-08-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3457,
+    "toRent": 7435
+  },
+  {
+    "date": "2021-08-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3513,
+    "toRent": 7586
+  },
+  {
+    "date": "2021-08-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3472,
+    "toRent": 7450
+  },
+  {
+    "date": "2021-08-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3461,
+    "toRent": 7409
+  },
+  {
+    "date": "2021-08-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3385,
+    "toRent": 7344
+  },
+  {
+    "date": "2021-08-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3113,
+    "toRent": 7249
+  },
+  {
+    "date": "2021-08-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3062,
+    "toRent": 7275
+  },
+  {
+    "date": "2021-08-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3097,
+    "toRent": 7463
+  },
+  {
+    "date": "2021-08-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3119,
+    "toRent": 7497
+  },
+  {
+    "date": "2021-08-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3064,
+    "toRent": 7476
+  },
+  {
+    "date": "2021-08-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2978,
+    "toRent": 7443
+  },
+  {
+    "date": "2021-08-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2959,
+    "toRent": 7352
+  },
+  {
+    "date": "2021-08-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2947,
+    "toRent": 7267
+  },
+  {
+    "date": "2021-08-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2909,
+    "toRent": 7281
+  },
+  {
+    "date": "2021-08-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2957,
+    "toRent": 7397
+  },
+  {
+    "date": "2021-08-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3001,
+    "toRent": 7482
+  },
+  {
+    "date": "2021-08-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3043,
+    "toRent": 7454
+  },
+  {
+    "date": "2021-08-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3016,
+    "toRent": 7388
+  },
+  {
+    "date": "2021-08-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3025,
+    "toRent": 7381
+  },
+  {
+    "date": "2021-08-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3040,
+    "toRent": 7302
+  },
+  {
+    "date": "2021-08-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2999,
+    "toRent": 7363
+  },
+  {
+    "date": "2021-08-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3033,
+    "toRent": 7400
+  },
+  {
+    "date": "2021-09-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3115,
+    "toRent": 7377
+  },
+  {
+    "date": "2021-09-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3054,
+    "toRent": 7368
+  },
+  {
+    "date": "2021-09-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3095,
+    "toRent": 7297
+  },
+  {
+    "date": "2021-09-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3135,
+    "toRent": 7248
+  },
+  {
+    "date": "2021-09-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3139,
+    "toRent": 7205
+  },
+  {
+    "date": "2021-09-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3115,
+    "toRent": 7259
+  },
+  {
+    "date": "2021-09-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3172,
+    "toRent": 7329
+  },
+  {
+    "date": "2021-09-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3185,
+    "toRent": 7345
+  },
+  {
+    "date": "2021-09-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3181,
+    "toRent": 7306
+  },
+  {
+    "date": "2021-09-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3204,
+    "toRent": 7249
+  },
+  {
+    "date": "2021-09-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3233,
+    "toRent": 7228
+  },
+  {
+    "date": "2021-09-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3214,
+    "toRent": 7168
+  },
+  {
+    "date": "2021-09-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3215,
+    "toRent": 7233
+  },
+  {
+    "date": "2021-09-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3310,
+    "toRent": 7336
+  },
+  {
+    "date": "2021-09-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3328,
+    "toRent": 7320
+  },
+  {
+    "date": "2021-09-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3329,
+    "toRent": 7268
+  },
+  {
+    "date": "2021-09-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3284,
+    "toRent": 7268
+  },
+  {
+    "date": "2021-09-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3299,
+    "toRent": 7248
+  },
+  {
+    "date": "2021-09-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3303,
+    "toRent": 7154
+  },
+  {
+    "date": "2021-09-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3278,
+    "toRent": 7253
+  },
+  {
+    "date": "2021-09-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3289,
+    "toRent": 7290
+  },
+  {
+    "date": "2021-09-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3321,
+    "toRent": 7304
+  },
+  {
+    "date": "2021-09-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3297,
+    "toRent": 7246
+  },
+  {
+    "date": "2021-09-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3252,
+    "toRent": 7137
+  },
+  {
+    "date": "2021-09-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3236,
+    "toRent": 7098
+  },
+  {
+    "date": "2021-09-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3231,
+    "toRent": 7105
+  },
+  {
+    "date": "2021-09-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3197,
+    "toRent": 7034
+  },
+  {
+    "date": "2021-09-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3261,
+    "toRent": 7117
+  },
+  {
+    "date": "2021-09-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3298,
+    "toRent": 7129
+  },
+  {
+    "date": "2021-09-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3301,
+    "toRent": 7009
+  },
+  {
+    "date": "2021-10-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3262,
+    "toRent": 6910
+  },
+  {
+    "date": "2021-10-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3255,
+    "toRent": 6711
+  },
+  {
+    "date": "2021-10-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3189,
+    "toRent": 6541
+  },
+  {
+    "date": "2021-10-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3156,
+    "toRent": 6487
+  },
+  {
+    "date": "2021-10-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3202,
+    "toRent": 6502
+  },
+  {
+    "date": "2021-10-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3310,
+    "toRent": 6504
+  },
+  {
+    "date": "2021-10-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3315,
+    "toRent": 6423
+  },
+  {
+    "date": "2021-10-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3303,
+    "toRent": 6367
+  },
+  {
+    "date": "2021-10-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3360,
+    "toRent": 6277
+  },
+  {
+    "date": "2021-10-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3301,
+    "toRent": 6174
+  },
+  {
+    "date": "2021-10-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3268,
+    "toRent": 6117
+  },
+  {
+    "date": "2021-10-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3343,
+    "toRent": 6163
+  },
+  {
+    "date": "2021-10-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3398,
+    "toRent": 6137
+  },
+  {
+    "date": "2021-10-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3428,
+    "toRent": 6077
+  },
+  {
+    "date": "2021-10-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3437,
+    "toRent": 6025
+  },
+  {
+    "date": "2021-10-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3480,
+    "toRent": 5945
+  },
+  {
+    "date": "2021-10-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3453,
+    "toRent": 5852
+  },
+  {
+    "date": "2021-10-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3476,
+    "toRent": 5845
+  },
+  {
+    "date": "2021-10-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3512,
+    "toRent": 5816
+  },
+  {
+    "date": "2021-10-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3593,
+    "toRent": 5783
+  },
+  {
+    "date": "2021-10-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3644,
+    "toRent": 5680
+  },
+  {
+    "date": "2021-10-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3649,
+    "toRent": 5632
+  },
+  {
+    "date": "2021-10-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3665,
+    "toRent": 5546
+  },
+  {
+    "date": "2021-10-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3647,
+    "toRent": 5504
+  },
+  {
+    "date": "2021-10-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3634,
+    "toRent": 5441
+  },
+  {
+    "date": "2021-10-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3669,
+    "toRent": 5437
+  },
+  {
+    "date": "2021-10-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3749,
+    "toRent": 5467
+  },
+  {
+    "date": "2021-10-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3707,
+    "toRent": 5306
+  },
+  {
+    "date": "2021-10-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3689,
+    "toRent": 5251
+  },
+  {
+    "date": "2021-10-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3682,
+    "toRent": 5151
+  },
+  {
+    "date": "2021-10-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3687,
+    "toRent": 5036
+  },
+  {
+    "date": "2021-11-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3624,
+    "toRent": 4941
+  },
+  {
+    "date": "2021-11-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3654,
+    "toRent": 4938
+  },
+  {
+    "date": "2021-11-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3703,
+    "toRent": 5030
+  },
+  {
+    "date": "2021-11-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3717,
+    "toRent": 5010
+  },
+  {
+    "date": "2021-11-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3698,
+    "toRent": 4965
+  },
+  {
+    "date": "2021-11-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3742,
+    "toRent": 4875
+  },
+  {
+    "date": "2021-11-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3741,
+    "toRent": 4834
+  },
+  {
+    "date": "2021-11-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3672,
+    "toRent": 4807
+  },
+  {
+    "date": "2021-11-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3807,
+    "toRent": 4906
+  },
+  {
+    "date": "2021-11-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3851,
+    "toRent": 4871
+  },
+  {
+    "date": "2021-11-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3816,
+    "toRent": 4821
+  },
+  {
+    "date": "2021-11-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3759,
+    "toRent": 4740
+  },
+  {
+    "date": "2021-11-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3745,
+    "toRent": 4677
+  },
+  {
+    "date": "2021-11-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3715,
+    "toRent": 4691
+  },
+  {
+    "date": "2021-11-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3655,
+    "toRent": 4690
+  },
+  {
+    "date": "2021-11-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3720,
+    "toRent": 4804
+  },
+  {
+    "date": "2021-11-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3768,
+    "toRent": 4825
+  },
+  {
+    "date": "2021-11-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3765,
+    "toRent": 4808
+  },
+  {
+    "date": "2021-11-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3742,
+    "toRent": 4808
+  },
+  {
+    "date": "2021-11-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3690,
+    "toRent": 4784
+  },
+  {
+    "date": "2021-11-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3635,
+    "toRent": 4759
+  },
+  {
+    "date": "2021-11-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3567,
+    "toRent": 4773
+  },
+  {
+    "date": "2021-11-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3642,
+    "toRent": 4813
+  },
+  {
+    "date": "2021-11-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3703,
+    "toRent": 4812
+  },
+  {
+    "date": "2021-11-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3669,
+    "toRent": 4779
+  },
+  {
+    "date": "2021-11-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3585,
+    "toRent": 4716
+  },
+  {
+    "date": "2021-11-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3534,
+    "toRent": 4721
+  },
+  {
+    "date": "2021-11-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3509,
+    "toRent": 4698
+  },
+  {
+    "date": "2021-11-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3494,
+    "toRent": 4680
+  },
+  {
+    "date": "2021-11-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3577,
+    "toRent": 4711
+  },
+  {
+    "date": "2021-12-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3650,
+    "toRent": 4746
+  },
+  {
+    "date": "2021-12-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3707,
+    "toRent": 4785
+  },
+  {
+    "date": "2021-12-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3698,
+    "toRent": 4725
+  },
+  {
+    "date": "2021-12-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3675,
+    "toRent": 4667
+  },
+  {
+    "date": "2021-12-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3617,
+    "toRent": 4629
+  },
+  {
+    "date": "2021-12-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3540,
+    "toRent": 4648
+  },
+  {
+    "date": "2021-12-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3546,
+    "toRent": 4702
+  },
+  {
+    "date": "2021-12-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3615,
+    "toRent": 4743
+  },
+  {
+    "date": "2021-12-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3567,
+    "toRent": 4693
+  },
+  {
+    "date": "2021-12-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3570,
+    "toRent": 4657
+  },
+  {
+    "date": "2021-12-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3555,
+    "toRent": 4645
+  },
+  {
+    "date": "2021-12-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3571,
+    "toRent": 4617
+  },
+  {
+    "date": "2021-12-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3508,
+    "toRent": 4627
+  },
+  {
+    "date": "2021-12-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3532,
+    "toRent": 4644
+  },
+  {
+    "date": "2021-12-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3473,
+    "toRent": 4638
+  },
+  {
+    "date": "2021-12-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3443,
+    "toRent": 4503
+  },
+  {
+    "date": "2021-12-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3421,
+    "toRent": 4470
+  },
+  {
+    "date": "2021-12-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3392,
+    "toRent": 4420
+  },
+  {
+    "date": "2021-12-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3389,
+    "toRent": 4415
+  },
+  {
+    "date": "2021-12-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3317,
+    "toRent": 4391
+  },
+  {
+    "date": "2021-12-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3308,
+    "toRent": 4305
+  },
+  {
+    "date": "2021-12-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3279,
+    "toRent": 4244
+  },
+  {
+    "date": "2021-12-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3184,
+    "toRent": 4075
+  },
+  {
+    "date": "2021-12-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3067,
+    "toRent": 3954
+  },
+  {
+    "date": "2021-12-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2997,
+    "toRent": 3870
+  },
+  {
+    "date": "2021-12-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2938,
+    "toRent": 3879
+  },
+  {
+    "date": "2021-12-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2919,
+    "toRent": 3860
+  },
+  {
+    "date": "2021-12-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2973,
+    "toRent": 3948
+  },
+  {
+    "date": "2021-12-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2974,
+    "toRent": 4018
+  },
+  {
+    "date": "2021-12-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2934,
+    "toRent": 3935
+  },
+  {
+    "date": "2021-12-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2856,
+    "toRent": 3897
+  },
+  {
+    "date": "2022-01-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2774,
+    "toRent": 3826
+  },
+  {
+    "date": "2022-01-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2695,
+    "toRent": 3785
+  },
+  {
+    "date": "2022-01-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2638,
+    "toRent": 3844
+  },
+  {
+    "date": "2022-01-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2760,
+    "toRent": 3991
+  },
+  {
+    "date": "2022-01-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2813,
+    "toRent": 4085
+  },
+  {
+    "date": "2022-01-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2847,
+    "toRent": 4086
+  },
+  {
+    "date": "2022-01-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2839,
+    "toRent": 4040
+  },
+  {
+    "date": "2022-01-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2867,
+    "toRent": 4003
+  },
+  {
+    "date": "2022-01-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2813,
+    "toRent": 4045
+  },
+  {
+    "date": "2022-01-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2831,
+    "toRent": 4148
+  },
+  {
+    "date": "2022-01-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 2925,
+    "toRent": 4323
+  },
+  {
+    "date": "2022-01-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3019,
+    "toRent": 4462
+  },
+  {
+    "date": "2022-01-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3096,
+    "toRent": 4536
+  },
+  {
+    "date": "2022-01-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3096,
+    "toRent": 4595
+  },
+  {
+    "date": "2022-01-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3155,
+    "toRent": 4649
+  },
+  {
+    "date": "2022-01-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3099,
+    "toRent": 4651
+  },
+  {
+    "date": "2022-01-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3107,
+    "toRent": 4774
+  },
+  {
+    "date": "2022-01-18T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3190,
+    "toRent": 4856
+  },
+  {
+    "date": "2022-01-19T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3264,
+    "toRent": 4936
+  },
+  {
+    "date": "2022-01-20T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3331,
+    "toRent": 5009
+  },
+  {
+    "date": "2022-01-21T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3366,
+    "toRent": 4967
+  },
+  {
+    "date": "2022-01-22T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3412,
+    "toRent": 5012
+  },
+  {
+    "date": "2022-01-23T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3470,
+    "toRent": 5074
+  },
+  {
+    "date": "2022-01-24T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3531,
+    "toRent": 5158
+  },
+  {
+    "date": "2022-01-25T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3610,
+    "toRent": 5177
+  },
+  {
+    "date": "2022-01-26T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3658,
+    "toRent": 5279
+  },
+  {
+    "date": "2022-01-27T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3679,
+    "toRent": 5328
+  },
+  {
+    "date": "2022-01-28T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3726,
+    "toRent": 5298
+  },
+  {
+    "date": "2022-01-29T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3734,
+    "toRent": 5343
+  },
+  {
+    "date": "2022-01-30T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3736,
+    "toRent": 5333
+  },
+  {
+    "date": "2022-01-31T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3801,
+    "toRent": 5402
+  },
+  {
+    "date": "2022-02-01T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3863,
+    "toRent": 5455
+  },
+  {
+    "date": "2022-02-02T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3924,
+    "toRent": 5479
+  },
+  {
+    "date": "2022-02-03T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3854,
+    "toRent": 5416
+  },
+  {
+    "date": "2022-02-04T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3828,
+    "toRent": 5373
+  },
+  {
+    "date": "2022-02-05T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3805,
+    "toRent": 5344
+  },
+  {
+    "date": "2022-02-06T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3806,
+    "toRent": 5359
+  },
+  {
+    "date": "2022-02-07T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3773,
+    "toRent": 5431
+  },
+  {
+    "date": "2022-02-08T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3787,
+    "toRent": 5424
+  },
+  {
+    "date": "2022-02-09T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3816,
+    "toRent": 5507
+  },
+  {
+    "date": "2022-02-10T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3776,
+    "toRent": 5475
+  },
+  {
+    "date": "2022-02-11T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3708,
+    "toRent": 5462
+  },
+  {
+    "date": "2022-02-12T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3671,
+    "toRent": 5418
+  },
+  {
+    "date": "2022-02-13T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3650,
+    "toRent": 5441
+  },
+  {
+    "date": "2022-02-14T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3600,
+    "toRent": 5428
+  },
+  {
+    "date": "2022-02-15T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3667,
+    "toRent": 5474
+  },
+  {
+    "date": "2022-02-16T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3731,
+    "toRent": 5457
+  },
+  {
+    "date": "2022-02-17T00:00:00",
+    "city": "Warszawa",
+    "toSell": 3734,
+    "toRent": 5423
+  }
+]

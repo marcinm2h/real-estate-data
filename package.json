@@ -1,12 +1,12 @@
 {
   "name": "real-estate-data",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate:csv": "node src/index.js"
   },
-  "keywords": [],
-  "author": "Marcin Moch",
-  "license": "ISC"
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.2.0"
+  }
 }
